@@ -9,4 +9,6 @@ Highlight features:
 - Easy to use & customize
 - Seo Optimization
 - [New] GraphQL is available
--
+
+Link product: https://landofcoder.com/magento-2-brand-extension.html
+

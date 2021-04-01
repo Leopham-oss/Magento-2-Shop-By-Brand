@@ -10,5 +10,6 @@ Highlight features:
 - SEO-Friendly Brand Listing & Brand Detailed Page
 - Brand Logo With Owl Carousel
 - [New] Support PWA, REST API, GraphQL
+
 Link product: https://landofcoder.com/magento-2-brand-extension.html
 
